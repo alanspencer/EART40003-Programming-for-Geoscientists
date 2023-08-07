@@ -1,3 +1,4 @@
+{% raw %}
 Strings
 =============
 
@@ -66,9 +67,5 @@ print(f"Result is {my_variable:07.3f}")                     # prints "Result is 
 
 There *is* more to the complex world of string formatting, but the examples above should cover most of what you want to do. See e.g. https://zetcode.com/python/fstring/ for more details if you need them.
 
-
-
-
-
-
 </pre>
+{% endraw %}
